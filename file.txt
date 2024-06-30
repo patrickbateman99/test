@@ -1,1 +1,3 @@
-ciao , ho fatto una mdifica da remoto.
+ciao , ho fatto una mdifica da remoto
+
+modifica da locale eseguita.!.
