@@ -1,3 +1,8 @@
 Ciao
+<<<<<<< HEAD
 aggiungo da locale
 Aggiungo una riaga remoto
+=======
+
+Aggiungo una riaga remoto!!!!
+>>>>>>> e50ef3f18e724f384942adf863b29ebf59815dd7
