@@ -1,1 +1,2 @@
-Ciao 
+Ciao
+riga aggiunta da locale 
