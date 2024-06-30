@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 Ciao
 riga aggiunta da locale 
+=======
+ciao file
+
+modifica fatta in locale!
+>>>>>>> Stashed changes
