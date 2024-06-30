@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 ciao , ho fatto una mdifica da remoto
 
 modifica da locale eseguita.!.
+=======
+ciao , ho fatto una mdifica da remoto.
+
+seconda mod. da remoto.
+
+>>>>>>> refs/remotes/mio-repo1/master
